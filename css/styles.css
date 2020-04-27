@@ -41,3 +41,18 @@ header h2 {
   border-top: none;
   padding: 10px;
 }
+
+/*custon styles for CAROUSEL*/
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+  border: solid #5637DD;
+}
+/*positioning start/pause button on carousel*/
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
